@@ -1,0 +1,58 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "Solve: <br>((4.12 + 3.12) ÷ 2) × 3.12",
+      "options": [
+        "12.3217",
+        "12.9845",
+        "11.2944",
+        "11.2391"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q2",
+      "question": "Calculate the product of 0.0023 and 0.0011.",
+      "options": [
+        "0.00002530",
+        "0.00000253",
+        "0.00025300",
+        "0.00253000"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q3",
+      "question": "Divide 1.234 by 0.002.",
+      "options": [
+        "680.234",
+        "627.12",
+        "620.12",
+        "617"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q4",
+      "question": "A customer purchases the following items from a supermarket:<br><img width='90%' src='./assests/images/1.png'><br> Calculate the total bill for all the items combined.",
+      "options": [
+        "$15.375",
+        "$15.257",
+        "$14.287",
+        "$14.295"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q5",
+      "question": "A fabric roll of 75.5 meters is cut into pieces each 2.5 meters long. How many full pieces are obtained and how much fabric is left?",
+      "options": [
+        "30 pieces, 0.05 meters",
+        "29 pieces, 1 meter",
+        "30 pieces, 0.5 meters",
+        "31 pieces, 0.5 meters"
+      ],
+      "correct": 2
+    }
+  ]
+  
